@@ -16,39 +16,30 @@
 </head>
 <body>
   <header>
-    <h1>Selamat Datang di Website Kelas 8B</h1>
-    <p>Bersama Kita Hebat!</p>
+   <h1>Selamat Datang di Website Kelas 8B</h1>
+   <p>Bersama Kita Hebat!</p>
   </header>
 
   <nav>
-    <a href="#jadwal">Jadwal Pelajaran</a>
-    <a href="#belajar">Belajar</a>
-    <a href="#piket">Jadwal Piket</a>
-    <a href="#sosmed">Sosial Media</a>
+   <a href="#jadwal">Jadwal Pelajaran</a>
+   <a href="#belajar">Belajar</a>
+   <a href="#piket">Jadwal Piket</a>
+   <a href="#sosmed">Sosial Media</a>
   </nav>
 
   <section id="jadwal">
     <h2>Jadwal Pelajaran</h2>
     <ul>
-      <li>Senin: Bahasa Indonesia ,Pendidikan Agama ,IPA</li>
-      <li>Selasa: Bahasa Indonesia, Informatika, Matematika</li>
-      <li>Rabu: PJOK, Pendidikan Pancasila, IPS</li>
-      <li>Kamis: Mulok, Matematika, Bahasa Inggris, IPA</li>
-      <li>Jumat: Seni Budaya, Bahasa Inggris</li>
-      <li>Sabtu: P5</li>
+     <li>Senin: Bahasa Indonesia ,Pendidikan Agama ,IPA</li>
+     <li>Selasa: Bahasa Indonesia, Informatika, Matematika</li>      <li>Rabu: PJOK, Pendidikan Pancasila, IPS</li>
+     <li>Kamis: Mulok, Matematika, Bahasa Inggris, IPA</li>      <li>Jumat: Seni Budaya, Bahasa Inggris</li>      <li>Sabtu: P5</li>
     </ul>
   </section>
 
-  <section id="belajar">
-    <h2>Belajar & Tugas</h2>
-    <p>Klik <a href="#">di sini</a> untuk melihat materi dan tugas terbaru.</p>
+  <section id="belajar">    <h2>Belajar & Tugas</h2>    <p>Klik <a href="#">di sini</a> untuk melihat materi dan tugas terbaru.</p>
   </section>
 
-  <section id="piket">
-    <h2>Jadwal Piket</h2>
-    <p>Senin: Dira, Putra, Fahmi, Dwi, Adinda, Silda</p>
-    <p>Selasa: Pungky, Dafi, Sabrina, Cahya, Sintia</p>
-    <p>Rabu: Rishad, Micko, Azriel, Jastin, Amelia</p>
+  <section id="piket">    <h2>Jadwal Piket</h2>    <p>Senin: Dira, Putra, Fahmi, Dwi, Adinda, Silda</p>    <p>Selasa: Pungky, Dafi, Sabrina, Cahya, Sintia</p>    <p>Rabu: Rishad, Micko, Azriel, Jastin, Amelia</p>
     <p>Kamis: Rio, Zaky, Dimas, Anita, Adelia, Nabila</p>
     <p>Jumat: Yogi, Edo, Farras, Choliv, Via</p>
     <p>Sabtu: Arjuna, Erwin, Zahraa, Devi, Mutiara</p>
