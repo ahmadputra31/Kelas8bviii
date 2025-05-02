@@ -1,4 +1,4 @@
-[Uploading inde<!DOCTYPE html>
+
 <html lang="id">
 <head>
   <meta charset="UTF-8">
@@ -66,7 +66,3 @@
   </footer>
 </body>
 </html>
-
-
-
-x (1).html…]()
