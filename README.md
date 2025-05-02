@@ -52,8 +52,7 @@
     <p>Kamis: Rio, Zaky, Dimas, Anita, Adelia, Nabila</p>
     <p>Jumat: Yogi, Edo, Farras, Choliv, Via</p>
     <p>Sabtu: Arjuna, Erwin, Zahraa, Devi, Mutiara</p>
-  </section>
-
+ 
   <section id="sosmed">
     <h2>Ikuti Sosial Media Kita</h2>
     <div class="social-icons">
@@ -69,6 +68,5 @@
 </html>
 
 
-Ini dia HTML dasar untuk web kelas 8B kamu! Udah ada fitur jadwal, bel!
 
 x (1).html…]()
